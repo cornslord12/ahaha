@@ -13,8 +13,5 @@ int main()
 
    cout << "nah\n";
    cout << "do not!\n";
-
-   cout << "nooooo :(\n";
-   cout << "I've changed my mi-i-ind!!!\n";
 }
 
